@@ -1,22 +1,20 @@
 # Shorts Pipeline — Legal
 
-Public Terms of Service for the **Shorts Pipeline** app (TikTok / platform developer reviews).
+Public legal pages for the **Shorts Pipeline** app (TikTok / platform developer reviews).
 
-## Live URL
+## Live URLs
 
-After GitHub Pages is enabled:
+| Document | URL |
+|----------|-----|
+| Terms of Service | https://thegrison.github.io/shorts-pipeline-legal/ |
+| Privacy Policy | https://thegrison.github.io/shorts-pipeline-legal/privacy-policy.html |
 
-**https://thegrison.github.io/shorts-pipeline-legal/**
-
-Direct page:
-
-**https://thegrison.github.io/shorts-pipeline-legal/terms-of-service.html**
+Repo: https://github.com/THEgrison/shorts-pipeline-legal
 
 ## Local preview
-
-Open `index.html` in a browser, or:
 
 ```bash
 python -m http.server 8765
 # http://127.0.0.1:8765/
+# http://127.0.0.1:8765/privacy-policy.html
 ```
